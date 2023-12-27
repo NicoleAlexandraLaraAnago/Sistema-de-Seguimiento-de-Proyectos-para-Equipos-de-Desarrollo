@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CAjYzqFnNVSREozAO+aoOYaOAGhCOMCv1cOiDRW7BzQ=",
+  "Hash": "gI22ZmpmxB1v8HBLJD/uRht3DwCTQYISEwQW4bvKLgg=",
   "Source": "proyecto",
   "BasePath": "_content/proyecto",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Ordenador\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\proyecto.styles.css",
+      "Identity": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\proyecto.styles.css",
       "SourceId": "proyecto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/proyecto",
       "RelativePath": "proyecto.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\proyecto.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\obj\\Debug\\net8.0\\scopedcss\\bundle\\proyecto.styles.css"
     }
   ]
 }

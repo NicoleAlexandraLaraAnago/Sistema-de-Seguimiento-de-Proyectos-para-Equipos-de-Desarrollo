@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\proyecto.csproj": {}
+    "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\proyecto.csproj": {
+    "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\proyecto.csproj",
         "projectName": "proyecto",
-        "projectPath": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\proyecto.csproj",
+        "projectPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\proyecto.csproj",
         "packagesPath": "C:\\Users\\Ordenador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ordenador\\Desktop\\proyecto\\proyecto\\obj\\",
+        "outputPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\Sistema-de-Seguimiento-de-Proyectos-para-Equipos-de-Desarrollo\\proyecto\\proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ordenador\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\proyecto\\UI",
+    "\\proyecto\\UI\\my-app",
+    "\\proyecto\\UI\\my-app\\src",
+    "\\proyecto\\UI\\my-app\\src\\app",
+    "\\proyecto\\UI\\my-app\\src\\app\\features",
+    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas",
+    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\add-tareas",
+    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\models",
+    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\tareas-list"
+  ],
+  "SelectedNode": "\\proyecto.sln",
+  "PreviewInSolutionExplorer": false
+}
