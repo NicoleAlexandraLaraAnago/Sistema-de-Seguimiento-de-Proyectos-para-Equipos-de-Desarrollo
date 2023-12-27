@@ -32,4 +32,11 @@ public class TareasController : ControllerBase
 
         return Ok();
     }
+    [HttpGet]
+public ActionResult<IEnumerable<Tarea>> GetTareas()
+{
+    var tareas = DbContext.Tareas.ToList();
+    return Ok(tareas);
+}
+
 }
