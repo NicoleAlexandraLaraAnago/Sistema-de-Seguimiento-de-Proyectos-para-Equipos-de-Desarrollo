@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\proyecto",
+    "\\proyecto\\Migrations",
+    "\\proyecto\\UI",
     "\\proyecto\\UI\\my-app",
+    "\\proyecto\\UI\\my-app\\.angular",
     "\\proyecto\\UI\\my-app\\src",
     "\\proyecto\\UI\\my-app\\src\\app",
     "\\proyecto\\UI\\my-app\\src\\app\\features",
     "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas",
-    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\models",
-    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\tareas-list"
+    "\\proyecto\\UI\\my-app\\src\\app\\features\\tareas\\services"
   ],
   "SelectedNode": "\\proyecto.sln",
   "PreviewInSolutionExplorer": false
